@@ -8,7 +8,7 @@
             <div class="text-center mb-4">
                 <a href="" class="text-dark text-decoration-none">
                     <img src="/images/La_Project.png" width="70">
-                    <h3 class="mt-2 font-weight-bold">TOKO LATIEF</h3>
+                    <h3 class="mt-2 font-weight-bold">TOKO LATIF</h3>
                 </a>
             </div>
             <div class="card-group">

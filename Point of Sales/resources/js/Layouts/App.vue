@@ -2,7 +2,7 @@
   <div class="c-app">
     <div class="c-sidebar c-sidebar-dark c-sidebar-fixed" :class="{ 'c-sidebar-lg-show': !$page.url.startsWith('/apps/transactions') }" id="sidebar">
       <div class="c-sidebar-brand d-lg-down-none" style="background: #894b9d;">
-        <img src="/images/La_Project.png" class="bg-light rounded shadow-sm p-1" width="35"> <span class="ml-2 font-weight-bold">TOKO LATIEF</span>
+        <img src="/images/La_Project.png" class="bg-light rounded shadow-sm p-1" width="35"> <span class="ml-2 font-weight-bold">TOKO LATIF</span>
       </div>
 
       <!-- sidebar -->
@@ -23,7 +23,7 @@
         <!-- end content -->
 
         <footer class="c-footer">
-          <div><strong>TOKO LATIEF</strong> &copy; APLIKASI KASIR LATIEF</div>
+          <div><strong>TOKO LATIF</strong> &copy; APLIKASI KASIR LATIF</div>
         </footer>
       </div>
     </div>
